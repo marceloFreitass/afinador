@@ -24,6 +24,6 @@ Este projeto consiste num afinador para violão e guitarra, feito com Arduino, p
 
 - [Emmanuel Aprígio](https://github.com/emmano2997 "Emmanuel Aprígio")
 - [João Victor](https://github.com/JoaoVictor-freire "João Victor")
-- [Marcelo de Freitas](https://github.com/mxxxrc "Marcelo de Freitas")
+- [Marcelo de Freitas](https://github.com/MarceloFreitass "Marcelo de Freitas")
 - [Petrus George](https://github.com/PetrusGeorge "Petrus George")
 - [Ralf Dewrich](https://github.com/ralfferreira "Ralf Dewrich")
